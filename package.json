@@ -8,6 +8,7 @@
   "author": "mtorre4580@outlook.com",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^29.4.0",
     "jest": "^29.4.1"
   }
 }
